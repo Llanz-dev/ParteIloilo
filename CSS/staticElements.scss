@@ -1,0 +1,18 @@
+$title-color: rgb(233, 254, 255);
+$background-color: rgb(66, 66, 66);
+$dark-blue: #1c2b3b;
+
+.desc {
+  margin: 0 5%;
+  line-height: 1.4rem;
+  word-spacing: 2px;
+}
+
+h2 {
+  color: $title-color;
+}
+
+@mixin flexPositioned($flexDirection) {
+  display: flex;
+  flex-direction: $flexDirection;
+}

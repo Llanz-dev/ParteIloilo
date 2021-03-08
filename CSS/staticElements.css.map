@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,KAAK,CAAC;EACJ,MAAM,EAAE,IAAI;EACZ,WAAW,EAAE,MAAM;EACnB,YAAY,EAAE,GAAG;CAClB;;AAED,AAAA,EAAE,CAAC;EACD,KAAK,EAXO,OAAkB;CAY/B",
+    "sources": [
+        "staticElements.scss"
+    ],
+    "names": [],
+    "file": "staticElements.css"
+}

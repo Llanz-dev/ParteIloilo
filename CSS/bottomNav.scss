@@ -1,0 +1,63 @@
+/* Disable the scrollbar */
+
+.disableScrollbar {
+  position: fixed;
+  overflow-y: scroll;
+  width: 100%;
+}
+
+/* Bottom nav */
+
+.nav-content {
+  font-family: sans-serif;
+  display: none;
+  position: fixed;
+  height: 93vh;
+  top: 0;
+  left: 0;
+  color: white;
+  text-transform: capitalize;
+  width: 100%;
+  background-color: rgb(66, 66, 66);
+  z-index: 100;
+  li {
+    user-select: none;
+    font-size: 1.5rem;
+    margin: 2rem 0 0 2rem;
+    padding: 0.5rem 0 0 0.5rem;
+    width: 200px;
+    border: 1px solid transparent;
+    transition: 0.2s ease;
+    cursor: pointer;
+    &:hover {
+      border: 1px solid white;
+    }
+  }
+}
+
+nav {
+  min-height: 7vh;
+  font-size: 1rem;
+  color: white;
+  background-color: rgb(54, 81, 97);
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  button {
+    i {
+      color: white;
+      font-size: 1.4rem;
+    }
+    margin-right: 1rem;
+    background-color: transparent;
+    border: none;
+    border: 1px solid transparent;
+    transition: 0.2s ease;
+    &:hover {
+      border: 1px solid black;
+    }
+  }
+}

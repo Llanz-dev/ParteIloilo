@@ -1,0 +1,76 @@
+/* Disable the scrollbar */
+.disableScrollbar {
+  position: fixed;
+  overflow-y: scroll;
+  width: 100%;
+}
+
+/* Bottom nav */
+.nav-content {
+  font-family: sans-serif;
+  display: none;
+  position: fixed;
+  height: 93vh;
+  top: 0;
+  left: 0;
+  color: white;
+  text-transform: capitalize;
+  width: 100%;
+  background-color: #424242;
+  z-index: 100;
+}
+
+.nav-content li {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  font-size: 1.5rem;
+  margin: 2rem 0 0 2rem;
+  padding: 0.5rem 0 0 0.5rem;
+  width: 200px;
+  border: 1px solid transparent;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+  cursor: pointer;
+}
+
+.nav-content li:hover {
+  border: 1px solid white;
+}
+
+nav {
+  min-height: 7vh;
+  font-size: 1rem;
+  color: white;
+  background-color: #365161;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+}
+
+nav button {
+  margin-right: 1rem;
+  background-color: transparent;
+  border: none;
+  border: 1px solid transparent;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
+
+nav button i {
+  color: white;
+  font-size: 1.4rem;
+}
+
+nav button:hover {
+  border: 1px solid black;
+}
+/*# sourceMappingURL=bottomNav.css.map */
