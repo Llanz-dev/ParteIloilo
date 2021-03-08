@@ -1,1 +1,1 @@
-This website is just a HTML CSS, SCSS and jQuery.
+This website give few info about Iloilo

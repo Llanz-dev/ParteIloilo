@@ -39,7 +39,6 @@ button {
 section.one {
   height: 43rem;
   background-image: url("../mainPictures/iloiloScenery.jpg");
-  /* background-image: url("https://scontent.fceb2-1.fna.fbcdn.net/v/t1.0-9/128829767_3788377544527100_4445042511531354073_o.jpg?_nc_cat=111&ccb=2&_nc_sid=cdbe9c&_nc_ohc=pXOzF-iH--wAX_HhXW1&_nc_ht=scontent.fceb2-1.fna&oh=87a9b8590007e2b6151b110337a4d444&oe=6043DAD0"); */
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
