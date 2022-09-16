@@ -1,7 +1,7 @@
 # ParteIloilo
 
 ## Description
-ParteIloilo is a static website that displays some information about Iloilo and the two major festivals in Iloilo.
+ParteIloilo is a static website that displays some information about Iloilo and the two major festivals.
 
 - About in Iloilo, Dinagyang and Paraw Regatta is the content of this site.
 - I use HTML, CSS, JavaScript and fontawesome icons to make this project.
