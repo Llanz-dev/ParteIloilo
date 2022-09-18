@@ -8,7 +8,7 @@ ParteIloilo is a static website that displays some information about Iloilo and 
 
 ## Built With
 - HTML
-- CSS
+- SCSS
 - JavaScript
 - Fontawesome icons
 
