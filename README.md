@@ -6,7 +6,7 @@ ParteIloilo is a static website that displays some information about Iloilo and 
 - About in Iloilo, Dinagyang and Paraw Regatta is the content of this site.
 - I want to showcase the 2 big event festival in Iloilo and the highlights of Iloilo.
 
-## How to Run the Project
+## Built With
 - HTML
 - CSS
 - JavaScript
